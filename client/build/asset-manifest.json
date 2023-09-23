@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8c14dfdc.css",
+    "main.js": "/static/js/main.8c8b053b.js",
+    "static/js/787.bdf25941.chunk.js": "/static/js/787.bdf25941.chunk.js",
+    "static/media/bg-1.jpg": "/static/media/bg-1.e7a118c397efc44bbf9e.jpg",
+    "static/media/Poppins-Thin.ttf": "/static/media/Poppins-Thin.a61eaf4c2e4d44d6db6a.ttf",
+    "static/media/Poppins-Light.ttf": "/static/media/Poppins-Light.f41b63c0bb0963ace821.ttf",
+    "static/media/Poppins-Regular.ttf": "/static/media/Poppins-Regular.8081832fc5cfbf634aa6.ttf",
+    "static/media/Poppins-Medium.ttf": "/static/media/Poppins-Medium.9e1bb626874ed49aa343.ttf",
+    "static/media/Poppins-SemiBold.ttf": "/static/media/Poppins-SemiBold.cce5625b56ec678e4202.ttf",
+    "static/media/Poppins-Bold.ttf": "/static/media/Poppins-Bold.404e299be26d78e66794.ttf",
+    "static/media/Poppins-ExtraBold.ttf": "/static/media/Poppins-ExtraBold.4ed78cd5d64af4efc3c7.ttf",
+    "static/media/lady.png": "/static/media/lady.2c54ef6a69cfe97e520f.png",
+    "static/media/mike.png": "/static/media/mike.8af8bcf1a1892426bb8d.png",
+    "static/media/mailz.jpeg": "/static/media/mailz.d13d5e32cbc73884b526.jpeg",
+    "static/media/man.png": "/static/media/man.bd25aa3831d20f3de330.png",
+    "static/media/profilephoto.jpeg": "/static/media/profilephoto.292cd2986d88563bf741.jpeg",
+    "static/media/me.jpeg": "/static/media/me.e8c100932713bd69badd.jpeg",
+    "static/media/logo.png": "/static/media/logo.dd0d9cf0a85274e601c9.png",
+    "static/media/bg.jpg": "/static/media/bg.d580cd375921d13ae60d.jpg",
+    "index.html": "/index.html",
+    "static/media/programming-skills.svg": "/static/media/programming-skills.d19983a9bee884277ffa.svg",
+    "static/media/projects.svg": "/static/media/projects.2b352a52b0588dab62f5.svg",
+    "static/media/interests.svg": "/static/media/interests.809890a3e4fb0938f61b.svg",
+    "static/media/education.svg": "/static/media/education.10cfa28a40119ebd70cf.svg",
+    "static/media/work-history.svg": "/static/media/work-history.a566475dedb99dea4bb8.svg",
+    "main.8c14dfdc.css.map": "/static/css/main.8c14dfdc.css.map",
+    "main.8c8b053b.js.map": "/static/js/main.8c8b053b.js.map",
+    "787.bdf25941.chunk.js.map": "/static/js/787.bdf25941.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c14dfdc.css",
+    "static/js/main.8c8b053b.js"
+  ]
+}
