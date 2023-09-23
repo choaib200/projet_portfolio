@@ -4,11 +4,11 @@
   "description": "client",
   "main": "server.js",
   "scripts": {
+    "test":"echo\"Error:no test specified\" && exit 1",
     "start": "node server.js",
     "server": "nodemon server.js",
-    "client": "npm start --prefix client",
-    "dev": "concurrently \"npm start\" \"npm run client\"",
-    "build": "npm run build --prefix client"
+    "client": "npm start --prefix ./client",
+    "dev": "concurrently \"npm start\" \"npm run client\""
   },
   "author": "Your Name",
   "license": "MIT",
